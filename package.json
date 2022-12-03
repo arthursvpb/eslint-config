@@ -1,6 +1,6 @@
 {
   "name": "@arthursvpb/eslint-config",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "ESLint + Prettier configuration to extend from.",
   "main": "index.js",
   "scripts": {
