@@ -1,5 +1,11 @@
 # eslint-prettier-av
 
+## 1.0.1
+
+### Patch Changes
+
+- 14d27fd: Add Eslint and Prettier config
+
 ## 1.3.0
 
 ### Minor Changes
