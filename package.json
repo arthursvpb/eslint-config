@@ -1,0 +1,39 @@
+{
+  "name": "@arthursvpb/eslint-config",
+  "version": "1.0.0",
+  "description": "ESLint + Prettier configuration to extend from.",
+  "main": "index.js",
+  "scripts": {
+    "changeset": "changeset",
+    "version-packages": "changeset version",
+    "release": "changeset publish"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arthursvpb/eslint-config.git"
+  },
+  "author": "arthursvpb",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/arthursvpb/eslint-config/issues"
+  },
+  "homepage": "https://github.com/arthursvpb/eslint-config#readme",
+  "devDependencies": {
+    "@changesets/cli": "^2.25.2"
+  },
+  "dependencies": {
+    "eslint": "^8.29.0",
+    "eslint-config-airbnb": "^19.0.4",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-config-prettier": "^8.5.0",
+    "eslint-plugin-import": "^2.26.0",
+    "eslint-plugin-jsx-a11y": "^6.6.1",
+    "eslint-plugin-prettier": "^4.2.1",
+    "eslint-plugin-react": "^7.31.11",
+    "eslint-plugin-react-hooks": "^4.6.0",
+    "prettier": "^2.8.0"
+  },
+  "peerDependencies": {
+    "eslint": "^8.0.0"
+  }
+}
